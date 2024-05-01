@@ -1,0 +1,6 @@
+[submodule "cellrv32"]
+	path = cellrv32
+	url = https://github.com/DatNguyen97-VN/cellrv32
+[submodule "riscv-arch-test"]
+	path = riscv-arch-test
+	url = https://github.com/riscv-non-isa/riscv-arch-test.git
